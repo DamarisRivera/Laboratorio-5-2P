@@ -21,7 +21,7 @@
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO 
 
-
+![image](https://user-images.githubusercontent.com/105617383/177440698-03178f5a-7fc6-4d08-a474-2531747f76cb.png)
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
