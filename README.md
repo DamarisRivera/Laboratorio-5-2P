@@ -3,7 +3,7 @@
 
 **Objetivo General:**
 
-* Analizar y comprobar de forma teórica y experimental, el Teorema de Thévenin con respecto a los voltajes y corrientes de un circuito eléctrico, esto se llevara a cabo mediante el desarrollo del presente laboratorio que abordará temas conocidos en la asignatura aplicado en un circuito eléctrico, por lo que se espera resultados similares, se utilizara Tinkerkad y se establecerá el porcentaje de error que tiene el método con respecto a los datos obtenidos mediante la simulación
+* Analizar y comprobar de forma teórica y experimental, el Teorema de Thévenin con respecto a los voltajes y corrientes de un circuito eléctrico, esto se llevara a cabo mediante el desarrollo del presente laboratorio que abordará temas conocidos en la asignatura aplicado en un circuito eléctrico, por lo que se espera resultados similares, se utilizara Tinkerkad y se establecerá el porcentaje de error que tiene el método con respecto a los datos obtenidos mediante la simulación.
 
 **Objetivo Específicos:**
 
@@ -17,11 +17,11 @@
 
 # 2. MARCO TEORICO 
 
-
+![image](https://user-images.githubusercontent.com/105617383/177440283-5c7727d8-3bb6-4a21-9ef3-8dc4cccaa621.png)
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO 
 
-
+![image](https://user-images.githubusercontent.com/105617383/177440432-7ee7e1bf-ddad-4a08-be3b-6597cb568936.png)
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
