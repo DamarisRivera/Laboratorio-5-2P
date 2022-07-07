@@ -81,8 +81,12 @@ Tabla 4.2. Comprobación del Teorema de Thévenin.
 Tabla 4.3. Porcentaje de error de los valores del Circuito Equivalente de Thévenin
 ![image](https://user-images.githubusercontent.com/105671763/177704490-cef952f1-f8fb-43bc-90f8-f41d4ee11812.png)
 
+El porcentaje de error que se muestra en la Tabla 4.3, se concluye que el voltaje y resistencia de Thevenin se encuentra bien calculado y la variación mínima del error entre los datos calculados y los medidos es por los decimales que son tomados en cuenta en los cálculos realizados, sin embargo, esto no afecta en la comprobación del circuito de Thevenin.
+
 Tabla 4.4. Porcentaje de error en la comprobación del Teorema de Thévenin.
 ![image](https://user-images.githubusercontent.com/105671763/177704525-88b04143-0433-41a8-a0bf-6173c44ae5a9.png)
+
+Al comparar los calculos medidos y simulados del circuito orginal con el circuito de Thevenin se puede observar que si bien el porcentaje de error parece ser mayor esto puede ser por errores al tomar los datos en los cálculos que se han hecho, sin embargo, se puede comprobar como se comporta el circuito de Thevenin y compararlo con el circuito original. 
 
 # 5.VIDEO
 
