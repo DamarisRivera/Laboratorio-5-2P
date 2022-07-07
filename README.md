@@ -25,9 +25,16 @@
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/105617383/177672441-e65e45d7-6a60-450d-825e-23d1cb209fee.png)
+![image](https://user-images.githubusercontent.com/105617383/177672457-f81a2d78-99ac-474c-9eac-1c83b932d56e.png)
+![image](https://user-images.githubusercontent.com/105617383/177672466-aca65ce5-551b-4eac-b930-eccb333dd53d.png)
+![image](https://user-images.githubusercontent.com/105617383/177672479-0efc91d1-db44-400a-98d9-276c996275a5.png)
+![image](https://user-images.githubusercontent.com/105617383/177672488-cca7ee76-53ed-4b57-a46d-44e59c03824f.png)
+![image](https://user-images.githubusercontent.com/105617383/177672494-6281e661-52f8-458c-8a9a-5d180fb2e454.png)
 
 # 5.VIDEO
 
+https://youtu.be/Nh4uTmkMeSw
 
 # 6.CONCLUSIONES
 
