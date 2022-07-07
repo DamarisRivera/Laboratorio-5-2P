@@ -40,6 +40,11 @@
 ![image](https://user-images.githubusercontent.com/105671763/177684507-f9b66865-10ba-4d45-90ed-64df85adc644.png)
 ![image](https://user-images.githubusercontent.com/105671763/177684830-d3bc7349-898a-428f-a05e-6c4a8ef5d9f0.png)
 
+![image](https://user-images.githubusercontent.com/105671763/177685897-06892fce-abce-408c-9e7f-e058f3f8829d.png)
+
+![image](https://user-images.githubusercontent.com/105671763/177685959-b7c0c098-fb64-4714-be8b-527385efb019.png)
+
+
 # 5.VIDEO
 
 https://youtu.be/Nh4uTmkMeSw
