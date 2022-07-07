@@ -21,10 +21,14 @@
 
 # 3. EXPLICACIÓN DEL PROCEDIMIENTO 
 
+3.1 Construir el siguiente circuito:
+
 ![image](https://user-images.githubusercontent.com/105617383/177440698-03178f5a-7fc6-4d08-a474-2531747f76cb.png)
 
-
+1. Calcular el voltaje del circuito por Thevenin, donde se omite la resistencia 5.
 ![image](https://user-images.githubusercontent.com/105671763/177682928-8a6ffeef-c77c-45f0-bd09-8605b9ab513d.png)
+
+2. Volvemos las fuentes de voltaje tengan un valor de cero para calcular la resistencia de THhevenin.
 ![image](https://user-images.githubusercontent.com/105671763/177683683-6d7f1cd2-db63-48a2-acdb-93ce4182281f.png)
 ![image](https://user-images.githubusercontent.com/105671763/177684199-9d3ec9c0-9b66-4ef0-a65b-39331fb3d36f.png)
 ![image](https://user-images.githubusercontent.com/105671763/177684507-f9b66865-10ba-4d45-90ed-64df85adc644.png)
@@ -34,20 +38,38 @@
 
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+Simulación del circuito en Thinkercad.
+4.1 Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 4.2.
+
 ![image](https://user-images.githubusercontent.com/105617383/177672441-e65e45d7-6a60-450d-825e-23d1cb209fee.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/177672457-f81a2d78-99ac-474c-9eac-1c83b932d56e.png)
+
+4.2 Desconecte el resistor R5 y mida el voltaje en el circuito abierto. Anote el valor medido en la tabla 4.1.
+
 ![image](https://user-images.githubusercontent.com/105617383/177672466-aca65ce5-551b-4eac-b930-eccb333dd53d.png)
+
+4.3 Anule el efecto de las fuentes de alimentación. Desconecte R5 y desde el circuito abierto resultante mida la resistencia equivalente. Anote el valor medido en la tabla 4.1.
+
 ![image](https://user-images.githubusercontent.com/105617383/177672479-0efc91d1-db44-400a-98d9-276c996275a5.png)
+
+4.4 Implemente el circuito equivalente de Thévenin, agregue el resistor R5 y mida la corriente y el voltaje en el mismo, anote los resultados en la tabla 4.2.
+
 ![image](https://user-images.githubusercontent.com/105617383/177672488-cca7ee76-53ed-4b57-a46d-44e59c03824f.png)
+
 ![image](https://user-images.githubusercontent.com/105617383/177672494-6281e661-52f8-458c-8a9a-5d180fb2e454.png)
 
-
+Tabla 4.1. Valores del Circuito Equivalente de Thévenin
 ![image](https://user-images.githubusercontent.com/105671763/177704341-5f2a496b-07e2-4625-83f5-6a3cf0a4328b.png)
+
+Tabla 4.2. Comprobación del Teorema de Thévenin.
 ![image](https://user-images.githubusercontent.com/105671763/177704385-0811d736-8e70-4120-9dea-41d3606a8404.png)
 
+Tabla 4.3. Porcentaje de error de los valores del Circuito Equivalente de Thévenin
 ![image](https://user-images.githubusercontent.com/105671763/177704490-cef952f1-f8fb-43bc-90f8-f41d4ee11812.png)
-![image](https://user-images.githubusercontent.com/105671763/177704525-88b04143-0433-41a8-a0bf-6173c44ae5a9.png)
 
+Tabla 4.4. Porcentaje de error en la comprobación del Teorema de Thévenin.
+![image](https://user-images.githubusercontent.com/105671763/177704525-88b04143-0433-41a8-a0bf-6173c44ae5a9.png)
 
 # 5.VIDEO
 
