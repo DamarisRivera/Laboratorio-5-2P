@@ -39,6 +39,7 @@
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 Simulación del circuito en Thinkercad.
+
 4.1 Mida el voltaje y la corriente en el resistor R5, anote los resultados en la tabla 4.2.
 
 ![image](https://user-images.githubusercontent.com/105617383/177672441-e65e45d7-6a60-450d-825e-23d1cb209fee.png)
