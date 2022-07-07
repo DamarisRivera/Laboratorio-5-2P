@@ -23,6 +23,7 @@
 
 ![image](https://user-images.githubusercontent.com/105617383/177440698-03178f5a-7fc6-4d08-a474-2531747f76cb.png)
 
+
 # 4.RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 ![image](https://user-images.githubusercontent.com/105617383/177672441-e65e45d7-6a60-450d-825e-23d1cb209fee.png)
