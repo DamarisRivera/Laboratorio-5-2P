@@ -29,6 +29,8 @@
 ![image](https://user-images.githubusercontent.com/105671763/177682928-8a6ffeef-c77c-45f0-bd09-8605b9ab513d.png)
 
 2. Volvemos las fuentes de voltaje tengan un valor de cero para calcular la resistencia de THhevenin.
+
+![image](https://user-images.githubusercontent.com/105617383/177764541-d5a13b6b-4eb3-49fe-a837-e6393d2a9d32.png)
 ![image](https://user-images.githubusercontent.com/105671763/177683683-6d7f1cd2-db63-48a2-acdb-93ce4182281f.png)
 ![image](https://user-images.githubusercontent.com/105671763/177684199-9d3ec9c0-9b66-4ef0-a65b-39331fb3d36f.png)
 ![image](https://user-images.githubusercontent.com/105671763/177684507-f9b66865-10ba-4d45-90ed-64df85adc644.png)
